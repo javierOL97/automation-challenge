@@ -18,7 +18,7 @@ Feature: Create a Liverpool account
 
 		@ApexTest
 	Scenario: User is allowed to create a new account
-		When User enters "valid17@test.com" in email field and "GoodPwd@1" in password field
+		When User enters "valid21@test.com" in email field and "GoodPwd@1" in password field
 		Then User clicks on Create account button
 		And User enters their data in order to complete account creation
 			|Name		|John|

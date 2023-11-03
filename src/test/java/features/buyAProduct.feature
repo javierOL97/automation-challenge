@@ -1,6 +1,6 @@
 Feature: Buying a product
 	
-	@ApexTest1
+	@ApexTest
 	Scenario: User is able to select and buy a product
 		Given User navigates to Liverpool homepage
 		And User login succesfully 
